@@ -1,6 +1,6 @@
 # Machine learning algorithms 
 
-This repository contains my hands-on practice code for various machine learning algorithms. It includes both *from-scratch implementations* and *library-based solutions* using scikit-learn, NumPy, and pandas, seaborn, matplotlib etc.
+This repository contains my hands on practice code for various machine learning algorithms. It includes both *from-scratch implementations* and *library-based solutions* using scikit-learn, NumPy, and pandas, seaborn, matplotlib etc.
 
 ## Algorithms Covered [Supervised/Unsupervised]
 
